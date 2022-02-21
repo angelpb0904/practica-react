@@ -1,0 +1,66 @@
+    1  rm
+    2  find
+    3  story
+    4  lear
+    5  history
+    6  df
+    7  grep
+    8  sudo
+    9  mv
+   10  ls
+   11  jobs
+   12  kill
+   13  ping
+   14  wget
+   15  man
+   16  apt-get
+   17  cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccdilf
+   18  tar
+   19  du
+   20  gh
+   21  gh auth login --webccccc
+   22  gh auth login --web
+   23  gh repo create
+   24  pwd
+   25  gh
+   26  gh auth login --web
+   27  gh
+   28  gh auth login --web
+   29  pwd
+   30  touch README.md
+   31  touch README.md
+   32  '/c/Users/Ángel Pérez/Desktop/gh-cli-test'
+   33  pwd
+   34  c:/Users/Angel Perez/Desktop/gh-cli-test
+   35  pwd
+   36  history
+   37  pwd
+   38  git init
+   39  history
+   40  git branch -M main
+   41  history
+   42  git init
+   43  git branch -M mainccccccccccc
+   44  gitc branch -M main
+   45  git init
+   46  git branch -M main
+   47  git init
+   48  git branchc -M main
+   49  git branch -M main
+   50  code .
+   51  npm --version
+   52  npm install -g npm
+   53  npm --version
+   54  npx create-react-app nombre-app
+   55  npm --version
+   56  npx create-react-app nombre-app
+   57  cd nombre-app
+   58  ls -a
+   59  cat .gitignore
+   60  history
+   61  touch README.md
+   62  git add .
+   63  git commit -m "Reac Proyect"
+   64  gh repo create
+   65  git push --set-upstream origin main
+   66  history > history.txt
